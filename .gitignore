@@ -1,0 +1,5 @@
+# Ignore full-sized images
+/Full/*
+
+# Ignore web-scaled images
+/Web/*
